@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://preview.redd.it/for-hire-pixel-art-commissions-open-for-one-slot-only-v0-n91yji2yz6yb1.gif?width=640&crop=smart&auto=webp&s=ad9f85bb9b44eec155001e1af42bcac368ee75e1)
+![Aditya Vikram Singh Banner]([https://preview.redd.it/for-hire-pixel-art-commissions-open-for-one-slot-only-v0-n91yji2yz6yb1.gif](https://giffiles.alphacoders.com/797/79792.gif)?width=640&crop=smart&auto=webp&s=ad9f85bb9b44eec155001e1af42bcac368ee75e1)
 
 ## Hi there 👋 I'm Fourth Backend Engineer
 ### 👨🏻‍💻 &nbsp;About Me
@@ -11,7 +11,6 @@
 <p align="center">
 <a href="https://github.com/Fourth1755">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fourth-Pooriwat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fourth-Pooriwat&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
