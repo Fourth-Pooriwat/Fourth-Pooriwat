@@ -6,12 +6,11 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm I graduated from Computer Engineer at the Kasetsart University Kamphaeng Saen Campus.\
 🌱 &nbsp;I'm on track for learning more about User Experience, Design Patterns, and API.\
-✍️ &nbsp;In my free time, I like to play games and watch anime.\
+✍️ &nbsp;In my free time, I like to play games and watch anime.
 
 <p align="center">
 <a href="https://github.com/Fourth-Pooriwat">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fourth-Pooriwat&show_icons=true&theme=algolia"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fourth-Pooriwat&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
