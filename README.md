@@ -10,8 +10,8 @@
 
 <p align="center">
 <a href="https://github.com/Fourth-Pooriwat">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fourth-Pooriwat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fourth-Pooriwat&layout=compact&langs_count=8&theme=algolia"/> -->
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fourth-Pooriwat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fourth-Pooriwat&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
