@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://github.com/Fourth-Pooriwat">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fourth-Pooriwat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fourth-Pooriwat&layout=compact&langs_count=8&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fourth-Pooriwat&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
 
@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <!--
-**Fourth1755/Fourth1755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fourth-Pooriwat/Fourth-Pooriwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
